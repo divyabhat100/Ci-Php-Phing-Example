@@ -59,8 +59,8 @@
     />
     <xslt
       file="${phpunit.output.xml.file}"
-      tofile="${junit.output.xml.file}"
-      style="${junit.style}"
+      tofile="${phpunit.output.xml.file}"
+      style="${phpunit.style}"
     />
   </target>
 
