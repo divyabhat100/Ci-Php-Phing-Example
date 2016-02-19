@@ -1,4 +1,4 @@
 php.bin=/usr/bin/php
-php.ini=${project.basedir}/resources/php.ini
+php.ini=/etc/php5/apache2/php.ini
 defaultpear.bin=/usr/bin/pear
 
